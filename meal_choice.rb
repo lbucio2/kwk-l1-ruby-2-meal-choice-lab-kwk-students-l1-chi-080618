@@ -13,7 +13,9 @@ end
 def dinner(food="Spagetti")
   "Any time, is right for#{food}!"
 end
-
+puts breakfast
+puts lunch
+puts dinner
 
 
 
